@@ -11,7 +11,7 @@ title: 看球日历
 
 ## 示例截屏
 
-![screenshot](assets/img/ballendar.jpg)
+![screenshot](assets/img/screenshot.jpg)
 
 ## 📅 更新日志
 

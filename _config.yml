@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 看球日历 Ballendar
+title: 看球日历
 email: hi@xlindo.com
 description: >- # this means to ignore newlines until "baseurl:"
   看球日历是一个易用的赛事日历微信小程序，由公众号“看川足”开发。
